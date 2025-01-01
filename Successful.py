@@ -5,3 +5,6 @@ for i in odd:
 for i in odd:
     if i %2 == 0:
         print(i)
+for i in odd:
+    if i %3 ==0:
+        print(i)
